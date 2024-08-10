@@ -8,12 +8,8 @@ const links = [
         path: "/",
     },
     {
-        name: "interest",
+        name: "interest & talent",
         path: "/interest",
-    },
-    {
-        name: "talent",
-        path: "/talent",
     },
     {
         name: "project",
